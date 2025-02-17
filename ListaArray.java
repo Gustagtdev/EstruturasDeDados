@@ -1,3 +1,4 @@
+//Versão sem Generics
 package util;
 
 public class ListaArray {
