@@ -1,7 +1,7 @@
 # EstruturasDeDados
 Listarei aqui os meus exercícios em Java referentes a Estruturas De Dados
 # O que vou aprender ao estudar Estruturas de Dados?
-1-Organização e Armazenamento de Dados:Você aprenderá a organizar e armazenar dados de maneira eficiente,
+1-Organização e Armazenamento de Dados: Você aprenderá a organizar e armazenar dados de maneira eficiente,
 o que pode melhorar o desempenho de seus programas.Isso envolve aprender sobre diferentes tipos de
 estruturas de dados como listas, pilhas, filas, árvores, grafos, tabelas de hash, entre outros.
 
